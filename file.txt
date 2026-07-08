@@ -1,1 +1,3 @@
-Hello from GIT
+Hello from GITThis is second line in file.txt
+this is the third line
+
